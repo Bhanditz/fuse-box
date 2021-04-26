@@ -90,7 +90,7 @@
         "ieee754": "^1.1.8",
         "inquirer": "^3.0.6",
         "mustache": "^2.3.0",
-        "postcss": "^6.0.1",
+        "postcss": "^8.2.13",
         "pretty-time": "^0.2.0",
         "prettysize": "0.0.3",
         "realm-utils": "^1.0.8",
